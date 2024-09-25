@@ -1,0 +1,116 @@
+#hpbody {
+    font-family: Goldman;
+    background-image: url(./img/background.jpeg);
+    height: 700px;
+    width:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#hpagina {
+    font-size: 75px;
+    margin-top: 300px;
+    margin-left: 375px;
+    color:white;
+}
+
+nav {
+    background-color: #00A8C7;
+    width: 100%;
+    height: 75px;
+    margin-top: -18px;
+}
+
+ul {
+    list-style: none;
+    display:flex;
+}
+
+.list {
+    list-style: none;
+    display:flex;
+    margin-left: 535px;
+    margin-top: 15px;
+}
+.nava {
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+    margin-left: 80px;
+}
+
+
+.div2 {
+    background-color: #00A8C7;
+    width: 100%;
+    height: 150px;
+}
+
+.wbg {
+    font-family: Goldman;
+    margin: 0;
+    padding: 0;
+}
+
+.dbg {    
+    font-family: Goldman;
+    background-color: #151515;
+    color:white;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: #00A8C7;
+    width: 100%;
+    color:white;
+    margin-top: 274px;
+    height:115px;
+}
+
+.footertext {
+    font-size: 25px;
+    margin-left: 650px;
+    padding-top: 45px;
+}
+
+.paginatitel {
+    font-size:50px;
+    margin-left: 750px;
+    margin-top: 65px;
+}
+
+h3 {
+    margin-left: 915px;
+    font-size:30px;
+    width: 500px;
+    margin-top: 40px;
+}
+
+#kleur1 {
+    color: #0071BB;
+}
+
+#kleur2 {
+    color: #E44D27;
+}
+
+.uitlegtekst {
+    margin-left: 918px;
+    max-width: 500px;
+    margin-top: 40px;
+}
+
+.taallogo {
+    margin-top: -300px;
+    margin-left: 400px;
+    width:400px;
+    height: auto;
+}
