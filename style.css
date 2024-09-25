@@ -114,3 +114,60 @@ h3 {
     width:400px;
     height: auto;
 }
+
+form {
+    margin-left: 675px;
+    margin-top: 40px;
+}
+
+input {
+    width: 500px;
+    margin-bottom:15px;
+    height:25px;
+    border-radius: 3px;
+    border-color: black;
+    border-style: solid 1px;
+}
+
+#contactt {
+    margin-left: 800px;
+}
+
+#bericht {
+    height: 150px;
+    margin:0;
+    padding:0;
+    vertical-align: top;
+}
+
+#versturen {
+    border-style: none;
+    background-color: #00A8C7;
+    color:white;
+    font-family:Goldman;
+    font-size: 20px;
+    margin-top: 35px;
+    height: 40px;
+    font-weight: lighter;
+}
+
+#javascriptt {
+    margin-left: 750px;
+}
+
+#jslogo {
+    width:300px;
+    height:auto;
+}
+
+#phpt {
+    margin-left: 840px;
+}
+
+#phpfooter {
+    margin-top: 300px;
+}
+
+#jsfooter {
+    margin-top: 310px;
+}
